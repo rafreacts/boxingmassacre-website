@@ -1,4 +1,4 @@
-mport { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 
 const STRIPE_PUBLISHABLE_KEY = 'pk_live_51TZttkIZhKSu0lLWuwYVbBQ420aFgCotk7kyYZdIS1hwINkClgJDS23p0t768YQ38asMtnX3JPb8pBMQjVl5HNun00wXHRZwZe';
 const BACKEND_URL = '/api/subscribe';
