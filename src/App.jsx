@@ -1,13 +1,13 @@
 import { useState, useEffect, useRef } from "react";
 
-const STRIPE_PUBLISHABLE_KEY = 'pk_live_51TZttkIZhKSu0lLWuwYVbBQ420aFgCotk7kyYZdIS1hwINkClgJDS23p0t768YQ38asMtnX3JPb8pBMQjVl5HNun00wXHRZwZe';
+const STRIPE_PUBLISHABLE_KEY = 'pk_live_51TbRfSLVwXApC0KTujOLQKRgZGCVafPJtV9Te3k7652xWXOb6Kqzw0jffxvHG8gbqWCzZJ5CMd56rd25F450I7V200zB3DA0DG';
 const BACKEND_URL = '/api/subscribe';
 
 const PLAN = {
   id: "boxing",
   name: "VIP Access",
   price: 15,
-  priceId: "price_1Tc9MkIZhKSu0lLWMUKyD3lG",
+  priceId: "price_1TcAafLVwXApC0KToirkWbQo",
   telegram: "https://t.me/+9IdJkqInNMs3ODc0",
   features: [
     "Early access to value odds before they shift",
