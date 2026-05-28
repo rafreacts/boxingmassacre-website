@@ -8,7 +8,7 @@ const PLAN = {
   name: "VIP Access",
   price: 15,
   priceId: "price_1TcAafLVwXApC0KToirkWbQo",
-  telegram: "https://t.me/+9IdJkqInNMs3ODc0",
+  telegram: "https://t.me/+flhBgnoLZMI2ZmU8",
   features: [
     "Early access to value odds before they shift",
     "Boxing picks",
