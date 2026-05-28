@@ -1,14 +1,14 @@
 mport { useState, useEffect, useRef } from "react";
 
-const STRIPE_PUBLISHABLE_KEY = 'pk_live_YOUR_STRIPE_KEY_HERE';
+const STRIPE_PUBLISHABLE_KEY = 'pk_live_51TZttkIZhKSu0lLWuwYVbBQ420aFgCotk7kyYZdIS1hwINkClgJDS23p0t768YQ38asMtnX3JPb8pBMQjVl5HNun00wXHRZwZe';
 const BACKEND_URL = '/api/subscribe';
 
 const PLAN = {
   id: "boxing",
   name: "VIP Access",
   price: 15,
-  priceId: "price_YOUR_PRICE_ID_HERE",
-  telegram: "https://t.me/YOUR_GROUP_LINK",
+  priceId: "price_1Tc9MkIZhKSu0lLWMUKyD3lG",
+  telegram: "https://t.me/+9IdJkqInNMs3ODc0",
   features: [
     "Early access to value odds before they shift",
     "Boxing picks",
